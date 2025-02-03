@@ -1,0 +1,869 @@
+﻿Contents of Directory: C:\Users\Chris\Desktop\BucStop
+Generated on: 02/02/2025 20:47:45
+
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Pong
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Snake
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp
+[File] C:\Users\Chris\Desktop\BucStop\.gitignore (Size: 7360 bytes, Created: 02/02/2025 19:35:26, Last Modified: 02/02/2025 19:35:26)
+[File] C:\Users\Chris\Desktop\BucStop\copy_script.ps1 (Size: 1696 bytes, Created: 02/02/2025 19:33:13, Last Modified: 02/02/2025 19:33:13)
+[File] C:\Users\Chris\Desktop\BucStop\DirectoryContents.txt (Size: 95 bytes, Created: 02/02/2025 20:47:45, Last Modified: 02/02/2025 20:47:45)
+[File] C:\Users\Chris\Desktop\BucStop\docker-compose.yml (Size: 1465 bytes, Created: 02/02/2025 19:33:09, Last Modified: 02/02/2025 20:26:59)
+[File] C:\Users\Chris\Desktop\BucStop\README.md (Size: 9 bytes, Created: 02/02/2025 19:35:26, Last Modified: 02/02/2025 19:35:26)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\.github
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\.dockerignore (Size: 340 bytes, Created: 02/02/2025 19:53:00, Last Modified: 02/02/2025 19:49:19)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\.gitattributes (Size: 2581 bytes, Created: 02/02/2025 19:53:00, Last Modified: 02/02/2025 19:49:19)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\.gitignore (Size: 6585 bytes, Created: 02/02/2025 19:53:00, Last Modified: 02/02/2025 19:49:19)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway.sln (Size: 1135 bytes, Created: 02/02/2025 19:53:00, Last Modified: 02/02/2025 19:49:19)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\README.md (Size: 816 bytes, Created: 02/02/2025 19:53:00, Last Modified: 02/02/2025 19:51:16)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\.github\workflows
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\.github\workflows\.NETBuild.yml (Size: 486 bytes, Created: 02/02/2025 19:53:00, Last Modified: 02/02/2025 19:49:19)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\.github\workflows\deploy.yml (Size: 1139 bytes, Created: 02/02/2025 19:53:00, Last Modified: 02/02/2025 19:49:19)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\.github\workflows\docker-image.yml (Size: 1608 bytes, Created: 02/02/2025 19:53:00, Last Modified: 02/02/2025 19:51:16)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway\bin
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway\Controllers
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway\obj
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway\Properties
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway\APIGateway.csproj (Size: 651 bytes, Created: 02/02/2025 19:53:00, Last Modified: 02/02/2025 19:49:19)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway\appsettings.Development.json (Size: 127 bytes, Created: 02/02/2025 19:53:00, Last Modified: 02/02/2025 19:49:19)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway\appsettings.json (Size: 151 bytes, Created: 02/02/2025 19:53:00, Last Modified: 02/02/2025 19:49:19)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway\Dockerfile (Size: 576 bytes, Created: 02/02/2025 19:53:00, Last Modified: 02/02/2025 20:06:35)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway\GameInfo.cs (Size: 502 bytes, Created: 02/02/2025 19:53:00, Last Modified: 02/02/2025 19:49:19)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway\Program.cs (Size: 853 bytes, Created: 02/02/2025 19:53:00, Last Modified: 02/02/2025 19:51:16)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway\bin\Debug
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway\bin\Debug\net6.0
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway\Controllers\GatewayController.cs (Size: 5557 bytes, Created: 02/02/2025 19:53:00, Last Modified: 02/02/2025 19:51:16)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway\obj\Debug
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway\obj\APIGateway.csproj.nuget.dgspec.json (Size: 3281 bytes, Created: 02/02/2025 19:53:00, Last Modified: 02/02/2025 19:49:53)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway\obj\APIGateway.csproj.nuget.g.props (Size: 2720 bytes, Created: 02/02/2025 19:53:00, Last Modified: 02/02/2025 19:49:53)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway\obj\APIGateway.csproj.nuget.g.targets (Size: 895 bytes, Created: 02/02/2025 19:53:00, Last Modified: 02/02/2025 19:49:53)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway\obj\project.assets.json (Size: 37137 bytes, Created: 02/02/2025 19:53:00, Last Modified: 02/02/2025 19:49:53)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway\obj\project.nuget.cache (Size: 2411 bytes, Created: 02/02/2025 19:53:00, Last Modified: 02/02/2025 19:49:53)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway\obj\Debug\net6.0
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway\obj\Debug\net6.0\ref
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway\obj\Debug\net6.0\refint
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs (Size: 198 bytes, Created: 02/02/2025 19:53:00, Last Modified: 02/02/2025 19:49:52)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway\obj\Debug\net6.0\APIGateway.AssemblyInfo.cs (Size: 1086 bytes, Created: 02/02/2025 19:53:00, Last Modified: 02/02/2025 19:49:52)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway\obj\Debug\net6.0\APIGateway.AssemblyInfoInputs.cache (Size: 66 bytes, Created: 02/02/2025 19:53:00, Last Modified: 02/02/2025 19:49:52)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway\obj\Debug\net6.0\APIGateway.assets.cache (Size: 5676 bytes, Created: 02/02/2025 19:53:00, Last Modified: 02/02/2025 19:49:54)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway\obj\Debug\net6.0\APIGateway.csproj.AssemblyReference.cache (Size: 3375 bytes, Created: 02/02/2025 19:53:00, Last Modified: 02/02/2025 19:49:54)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway\obj\Debug\net6.0\APIGateway.GeneratedMSBuildEditorConfig.editorconfig (Size: 967 bytes, Created: 02/02/2025 19:53:00, Last Modified: 02/02/2025 19:49:52)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway\obj\Debug\net6.0\APIGateway.GlobalUsings.g.cs (Size: 770 bytes, Created: 02/02/2025 19:53:00, Last Modified: 02/02/2025 19:49:52)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_APIGateway\APIGateway\Properties\launchSettings.json (Size: 1121 bytes, Created: 02/02/2025 19:53:00, Last Modified: 02/02/2025 19:49:19)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\.github
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\.dockerignore (Size: 340 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:19)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\.gitattributes (Size: 2581 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:19)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\.gitignore (Size: 6585 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:19)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong.sln (Size: 1117 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:19)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\README.md (Size: 1063 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\.github\workflows
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\.github\workflows\.NETBuild.yml (Size: 486 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:19)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\.github\workflows\deploy.yml (Size: 1139 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:19)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\.github\workflows\docker-image.yml (Size: 1601 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:19)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\bin
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\Controllers
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\obj
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\Properties
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\appsettings.Development.json (Size: 127 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:19)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\appsettings.json (Size: 192 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\Dockerfile (Size: 546 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:07:06)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\GameInfo.cs (Size: 416 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:19)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\Pong.csproj (Size: 565 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:19)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\Program.cs (Size: 599 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\bin\Debug
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\bin\Debug\net6.0
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\Controllers\PongController.cs (Size: 1768 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\obj\Debug
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\obj\Pong.csproj.nuget.dgspec.json (Size: 3052 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\obj\Pong.csproj.nuget.g.props (Size: 2720 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\obj\Pong.csproj.nuget.g.targets (Size: 895 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\obj\project.assets.json (Size: 29802 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\obj\project.nuget.cache (Size: 1804 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:39)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\obj\Debug\net6.0
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\obj\Debug\net6.0\ref
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\obj\Debug\net6.0\refint
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs (Size: 198 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:40)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\obj\Debug\net6.0\Pong.AssemblyInfo.cs (Size: 1068 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:40)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\obj\Debug\net6.0\Pong.AssemblyInfoInputs.cache (Size: 66 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:40)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\obj\Debug\net6.0\Pong.assets.cache (Size: 3734 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:40)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\obj\Debug\net6.0\Pong.csproj.AssemblyReference.cache (Size: 1970 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:40)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\obj\Debug\net6.0\Pong.GeneratedMSBuildEditorConfig.editorconfig (Size: 931 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:40)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\obj\Debug\net6.0\Pong.GlobalUsings.g.cs (Size: 770 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:40)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\Properties\launchSettings.json (Size: 1115 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:19)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\css
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\fonts
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\images
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\js
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\favicon.ico (Size: 3758 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\Logo.png (Size: 11885 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\playcount.json (Size: 616 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\css\site.css (Size: 2015 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\fonts\BebasNeue-Regular.ttf (Size: 57676 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\fonts\GreatVibes-Regular.ttf (Size: 154020 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\images\background.png (Size: 176387 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\images\pong.jpg (Size: 15324 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\images\snake.jpg (Size: 82217 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\images\tetris.jpg (Size: 26408 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\js\pong.js (Size: 8039 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\jquery
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\jquery-validation
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\jquery-validation-unobtrusive
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\LICENSE (Size: 1153 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\js
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css (Size: 75534 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map (Size: 196535 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css (Size: 51325 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map (Size: 117439 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css (Size: 75607 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map (Size: 196539 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css (Size: 51400 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map (Size: 117516 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css (Size: 6276 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map (Size: 105138 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css (Size: 4653 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map (Size: 35330 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css (Size: 6250 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map (Size: 105151 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css (Size: 4725 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map (Size: 41570 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css (Size: 76449 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map (Size: 192271 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css (Size: 53485 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map (Size: 111875 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css (Size: 76307 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map (Size: 192214 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css (Size: 53413 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map (Size: 111710 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap.css (Size: 215356 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map (Size: 536547 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css (Size: 162726 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map (Size: 449111 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css (Size: 214999 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map (Size: 536461 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css (Size: 162831 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map (Size: 661035 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js (Size: 215272 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map (Size: 425643 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js (Size: 78474 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map (Size: 327261 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js (Size: 143996 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map (Size: 288320 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js (Size: 72022 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map (Size: 222508 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\js\bootstrap.js (Size: 153194 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map (Size: 289522 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js (Size: 59517 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map (Size: 217145 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\jquery\dist
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\jquery\LICENSE.txt (Size: 1641 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\jquery\dist\jquery.js (Size: 298502 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\jquery\dist\jquery.min.js (Size: 89478 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\jquery\dist\jquery.min.map (Size: 137974 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\jquery-validation\dist
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\jquery-validation\LICENSE.md (Size: 1117 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\jquery-validation\dist\additional-methods.js (Size: 43184 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\jquery-validation\dist\additional-methods.min.js (Size: 18467 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\jquery-validation\dist\jquery.validate.js (Size: 50276 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js (Size: 23264 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js (Size: 19798 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js (Size: 5873 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Pong\Pong\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt (Size: 587 bytes, Created: 02/02/2025 20:02:19, Last Modified: 02/02/2025 20:01:48)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\.github
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\.dockerignore (Size: 340 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\.gitattributes (Size: 2581 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\.gitignore (Size: 6585 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\README.md (Size: 1069 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:58:24)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake.sln (Size: 1120 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\.github\workflows
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\.github\workflows\.NETBuild.yml (Size: 486 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\.github\workflows\deploy.yml (Size: 1139 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\.github\workflows\docker-image.yml (Size: 1603 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:58:24)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\bin
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\Controllers
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\obj
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\Properties
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\appsettings.Development.json (Size: 127 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\appsettings.json (Size: 192 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:58:24)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\Dockerfile (Size: 551 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 20:07:27)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\GameInfo.cs (Size: 417 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\Program.cs (Size: 599 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:58:24)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\Snake.csproj (Size: 565 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\bin\Debug
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\bin\Debug\net6.0
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\Controllers\SnakeController.cs (Size: 1836 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:58:24)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\obj\Debug
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\obj\project.assets.json (Size: 29811 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:43)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\obj\project.nuget.cache (Size: 1807 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:43)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\obj\Snake.csproj.nuget.dgspec.json (Size: 3067 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:43)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\obj\Snake.csproj.nuget.g.props (Size: 2720 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:43)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\obj\Snake.csproj.nuget.g.targets (Size: 895 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:43)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\obj\Debug\net6.0
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\obj\Debug\net6.0\ref
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\obj\Debug\net6.0\refint
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs (Size: 198 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:44)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\obj\Debug\net6.0\Snake.AssemblyInfo.cs (Size: 1071 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:44)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\obj\Debug\net6.0\Snake.AssemblyInfoInputs.cache (Size: 66 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:44)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\obj\Debug\net6.0\Snake.assets.cache (Size: 3734 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:44)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\obj\Debug\net6.0\Snake.csproj.AssemblyReference.cache (Size: 1970 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:44)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\obj\Debug\net6.0\Snake.GeneratedMSBuildEditorConfig.editorconfig (Size: 937 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:44)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\obj\Debug\net6.0\Snake.GlobalUsings.g.cs (Size: 770 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:44)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\Properties\launchSettings.json (Size: 1116 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\css
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\fonts
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\images
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\js
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\favicon.ico (Size: 3758 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\Logo.png (Size: 11885 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\playcount.json (Size: 566 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\css\site.css (Size: 1387 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\fonts\BebasNeue-Regular.ttf (Size: 57676 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\fonts\GreatVibes-Regular.ttf (Size: 154020 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\images\snake.jpg (Size: 82217 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\js\hammer.min.js (Size: 24756 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\js\snake.js (Size: 4272 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\jquery
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\jquery-validation
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\jquery-validation-unobtrusive
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\LICENSE (Size: 1153 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\js
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css (Size: 75534 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map (Size: 196535 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css (Size: 51325 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map (Size: 117439 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css (Size: 75607 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map (Size: 196539 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css (Size: 51400 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map (Size: 117516 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css (Size: 6276 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map (Size: 105138 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css (Size: 4653 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map (Size: 35330 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css (Size: 6250 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map (Size: 105151 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css (Size: 4725 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map (Size: 41570 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css (Size: 76449 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map (Size: 192271 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css (Size: 53485 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map (Size: 111875 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css (Size: 76307 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map (Size: 192214 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css (Size: 53413 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map (Size: 111710 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap.css (Size: 215356 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map (Size: 536547 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css (Size: 162726 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map (Size: 449111 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css (Size: 214999 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map (Size: 536461 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css (Size: 162831 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map (Size: 661035 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js (Size: 215272 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map (Size: 425643 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js (Size: 78474 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map (Size: 327261 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js (Size: 143996 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map (Size: 288320 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js (Size: 72022 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map (Size: 222508 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\js\bootstrap.js (Size: 153194 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map (Size: 289522 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js (Size: 59517 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map (Size: 217145 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\jquery\dist
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\jquery\LICENSE.txt (Size: 1641 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\jquery\dist\jquery.js (Size: 298502 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\jquery\dist\jquery.min.js (Size: 89478 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\jquery\dist\jquery.min.map (Size: 137974 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\jquery-validation\dist
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\jquery-validation\LICENSE.md (Size: 1117 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\jquery-validation\dist\additional-methods.js (Size: 43184 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\jquery-validation\dist\additional-methods.min.js (Size: 18467 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\jquery-validation\dist\jquery.validate.js (Size: 50276 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js (Size: 23264 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js (Size: 19798 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js (Size: 5873 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Snake\Snake\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt (Size: 587 bytes, Created: 02/02/2025 19:58:44, Last Modified: 02/02/2025 19:57:30)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\.github
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\.dockerignore (Size: 340 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\.gitattributes (Size: 2581 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\.gitignore (Size: 6585 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\README.md (Size: 1066 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:55:01)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris.sln (Size: 1123 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\.github\workflows
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\.github\workflows\.NETBuild.yml (Size: 486 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\.github\workflows\deploy.yml (Size: 1139 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\.github\workflows\docker-image.yml (Size: 1605 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:55:01)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\bin
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\Controllers
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\obj
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\Properties
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\appsettings.Development.json (Size: 127 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\appsettings.json (Size: 192 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:55:01)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\Dockerfile (Size: 556 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 20:07:55)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\GameInfo.cs (Size: 446 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\Program.cs (Size: 599 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:55:01)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\Tetris.csproj (Size: 565 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\bin\Debug
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\bin\Debug\net6.0
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\Controllers\TetrisController.cs (Size: 2583 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:55:01)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\obj\Debug
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\obj\project.assets.json (Size: 29820 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\obj\project.nuget.cache (Size: 1810 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\obj\Tetris.csproj.nuget.dgspec.json (Size: 3082 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\obj\Tetris.csproj.nuget.g.props (Size: 2720 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\obj\Tetris.csproj.nuget.g.targets (Size: 895 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:58)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\obj\Debug\net6.0
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\obj\Debug\net6.0\ref
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\obj\Debug\net6.0\refint
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs (Size: 198 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\obj\Debug\net6.0\Tetris.AssemblyInfo.cs (Size: 1074 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\obj\Debug\net6.0\Tetris.AssemblyInfoInputs.cache (Size: 66 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\obj\Debug\net6.0\Tetris.assets.cache (Size: 3734 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\obj\Debug\net6.0\Tetris.csproj.AssemblyReference.cache (Size: 1970 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\obj\Debug\net6.0\Tetris.GeneratedMSBuildEditorConfig.editorconfig (Size: 943 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\obj\Debug\net6.0\Tetris.GlobalUsings.g.cs (Size: 770 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\Properties\launchSettings.json (Size: 1117 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\css
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\fonts
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\images
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\js
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\favicon.ico (Size: 3758 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\Logo.png (Size: 11885 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\playcount.json (Size: 566 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\css\site.css (Size: 1387 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\fonts\BebasNeue-Regular.ttf (Size: 57676 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\fonts\GreatVibes-Regular.ttf (Size: 154020 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\images\tetris.jpg (Size: 26408 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\js\tetris.js (Size: 9421 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\jquery
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\jquery-validation
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\jquery-validation-unobtrusive
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\LICENSE (Size: 1153 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\js
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css (Size: 75534 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map (Size: 196535 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css (Size: 51325 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map (Size: 117439 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css (Size: 75607 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map (Size: 196539 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css (Size: 51400 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map (Size: 117516 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css (Size: 6276 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map (Size: 105138 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css (Size: 4653 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map (Size: 35330 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css (Size: 6250 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map (Size: 105151 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css (Size: 4725 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map (Size: 41570 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css (Size: 76449 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map (Size: 192271 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css (Size: 53485 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map (Size: 111875 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css (Size: 76307 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map (Size: 192214 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css (Size: 53413 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map (Size: 111710 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap.css (Size: 215356 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map (Size: 536547 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css (Size: 162726 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map (Size: 449111 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css (Size: 214999 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map (Size: 536461 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css (Size: 162831 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map (Size: 661035 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js (Size: 215272 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map (Size: 425643 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js (Size: 78474 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map (Size: 327261 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js (Size: 143996 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map (Size: 288320 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js (Size: 72022 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map (Size: 222508 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\js\bootstrap.js (Size: 153194 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map (Size: 289522 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js (Size: 59517 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map (Size: 217145 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\jquery\dist
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\jquery\LICENSE.txt (Size: 1641 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\jquery\dist\jquery.js (Size: 298502 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\jquery\dist\jquery.min.js (Size: 89478 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\jquery\dist\jquery.min.map (Size: 137974 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\jquery-validation\dist
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\jquery-validation\LICENSE.md (Size: 1117 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\jquery-validation\dist\additional-methods.js (Size: 43184 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\jquery-validation\dist\additional-methods.min.js (Size: 18467 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\jquery-validation\dist\jquery.validate.js (Size: 50276 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js (Size: 23264 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js (Size: 19798 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js (Size: 5873 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_Tetris\Tetris\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt (Size: 587 bytes, Created: 02/02/2025 19:55:29, Last Modified: 02/02/2025 19:54:39)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\.github
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\scripts
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\.dockerignore (Size: 340 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\.DS_Store (Size: 6148 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\.gitattributes (Size: 2581 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\.gitignore (Size: 6587 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop.sln (Size: 1127 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\CHANGELOG.md (Size: 2705 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\Cookie_Research_.pdf (Size: 74037 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\HowToDeploy.pdf (Size: 314032 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:47:53)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\README.md (Size: 4077 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:47:53)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\Selenium_Documentation.docx (Size: 16564 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\.github\workflows
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\.github\workflows\.NETBuild.yml (Size: 478 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\.github\workflows\deploy.yml (Size: 1389 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\.github\workflows\docker-image.yml (Size: 1838 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:47:53)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Controllers
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\MicroServices
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Models
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Properties
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Services
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Views
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\.DS_Store (Size: 6148 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\appsettings.Development.json (Size: 127 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\appsettings.json (Size: 192 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:47:53)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\BucStop.csproj (Size: 682 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:47:53)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Dockerfile (Size: 561 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 20:06:09)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\games.json (Size: 543 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Program.cs (Size: 1790 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:47:53)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\af
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ar
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\az
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\bg
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\bn-BD
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\cs
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\da
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\de
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\el
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\es
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\fa
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\fi-FI
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\fr
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\fr-BE
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\he
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\hr
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\hu
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\hy
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\id
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\is
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\it
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ja
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ko
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ko-KR
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ku
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\lv
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ms-MY
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\mt
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\nb
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\nb-NO
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\nl
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\pl
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\pt
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\pt-BR
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ro
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ru
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\runtimes
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\sk
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\sl
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\sr
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\sr-Latn
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\sv
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\th-TH
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\tr
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\uk
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\uz-Cyrl-UZ
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\uz-Latn-UZ
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\vi
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\zh-CN
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\zh-Hans
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\zh-Hant
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\appsettings.Development.json (Size: 127 bytes, Created: 02/02/2025 20:30:58, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\appsettings.json (Size: 192 bytes, Created: 02/02/2025 20:30:58, Last Modified: 02/02/2025 19:47:53)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\BucStop.deps.json (Size: 134872 bytes, Created: 02/02/2025 20:30:58, Last Modified: 02/02/2025 20:30:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\BucStop.dll (Size: 159232 bytes, Created: 02/02/2025 20:30:58, Last Modified: 02/02/2025 20:30:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\BucStop.exe (Size: 149504 bytes, Created: 02/02/2025 20:30:58, Last Modified: 02/02/2025 20:30:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\BucStop.pdb (Size: 74584 bytes, Created: 02/02/2025 20:30:58, Last Modified: 02/02/2025 20:30:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\BucStop.runtimeconfig.json (Size: 416 bytes, Created: 02/02/2025 20:30:58, Last Modified: 02/02/2025 20:30:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\BucStop.staticwebassets.runtime.json (Size: 11186 bytes, Created: 02/02/2025 20:30:58, Last Modified: 02/02/2025 20:30:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll (Size: 54328 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/01/2024 17:32:26)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\games.json (Size: 543 bytes, Created: 02/02/2025 20:30:58, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\Humanizer.dll (Size: 355944 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:04)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\MessagePack.Annotations.dll (Size: 8704 bytes, Created: 02/02/2025 20:30:58, Last Modified: 07/01/2020 09:05:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\MessagePack.dll (Size: 275456 bytes, Created: 02/02/2025 20:30:58, Last Modified: 07/01/2020 09:05:38)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll (Size: 1009280 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/26/2021 17:51:08)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll (Size: 14720 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/19/2020 14:47:56)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll (Size: 543624 bytes, Created: 02/02/2025 20:30:58, Last Modified: 06/05/2020 23:37:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll (Size: 5824128 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:34)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll (Size: 1450600 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:43:18)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll (Size: 811112 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:40)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll (Size: 2643072 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:30:42)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll (Size: 4317288 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:54)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll (Size: 91248 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/26/2021 17:51:14)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll (Size: 136296 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:38:10)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll (Size: 3226240 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:38:16)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\Microsoft.DiaSymReader.dll (Size: 84352 bytes, Created: 02/02/2025 20:30:58, Last Modified: 06/11/2018 06:53:22)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll (Size: 101944 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/01/2024 17:32:18)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll (Size: 40336 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/12/2021 18:56:42)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll (Size: 71736 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/01/2024 17:32:24)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll (Size: 37448 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/01/2024 17:32:26)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll (Size: 78904 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/01/2024 17:32:24)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll (Size: 30776 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/01/2024 17:32:22)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll (Size: 32312 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/01/2024 17:32:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll (Size: 219184 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/01/2024 17:32:26)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\Newtonsoft.Json.dll (Size: 712464 bytes, Created: 02/02/2025 20:30:58, Last Modified: 03/08/2023 02:09:54)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\NuGet.Common.dll (Size: 122288 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/17/2024 19:28:16)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\NuGet.Configuration.dll (Size: 170544 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/17/2024 19:28:16)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll (Size: 91056 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/17/2024 19:26:36)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\NuGet.Frameworks.dll (Size: 131104 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/17/2024 19:27:16)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\NuGet.LibraryModel.dll (Size: 56768 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/17/2024 19:27:12)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\NuGet.Packaging.dll (Size: 687040 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/17/2024 19:28:14)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\NuGet.ProjectModel.dll (Size: 217016 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/17/2024 19:27:42)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\NuGet.Protocol.dll (Size: 783280 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/17/2024 19:28:38)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\NuGet.Versioning.dll (Size: 66080 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/17/2024 19:29:26)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\System.Composition.AttributedModel.dll (Size: 24840 bytes, Created: 02/02/2025 20:30:58, Last Modified: 11/05/2016 00:55:42)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\System.Composition.Convention.dll (Size: 59128 bytes, Created: 02/02/2025 20:30:58, Last Modified: 11/05/2016 00:55:42)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\System.Composition.Hosting.dll (Size: 62184 bytes, Created: 02/02/2025 20:30:58, Last Modified: 11/05/2016 00:55:42)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\System.Composition.Runtime.dll (Size: 29928 bytes, Created: 02/02/2025 20:30:58, Last Modified: 11/05/2016 00:55:44)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\System.Composition.TypedParts.dll (Size: 64760 bytes, Created: 02/02/2025 20:30:58, Last Modified: 11/05/2016 00:55:46)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\System.Formats.Asn1.dll (Size: 82192 bytes, Created: 02/02/2025 20:30:58, Last Modified: 06/14/2024 13:56:12)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll (Size: 250488 bytes, Created: 02/02/2025 20:30:58, Last Modified: 06/18/2023 19:45:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll (Size: 24880 bytes, Created: 02/02/2025 20:30:58, Last Modified: 07/19/2017 06:01:34)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\af\Humanizer.resources.dll (Size: 16488 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:06)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ar\Humanizer.resources.dll (Size: 21608 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:06)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\az\Humanizer.resources.dll (Size: 16488 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:08)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\bg\Humanizer.resources.dll (Size: 17000 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:08)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll (Size: 17000 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:08)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\cs\Humanizer.resources.dll (Size: 18536 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:08)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll (Size: 38504 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:43:18)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll (Size: 364656 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:34)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll (Size: 17000 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:40)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll (Size: 174184 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:54)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll (Size: 43624 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:30:42)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll (Size: 17000 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:38:10)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll (Size: 45160 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:38:18)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\da\Humanizer.resources.dll (Size: 17512 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:10)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\de\Humanizer.resources.dll (Size: 19560 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:10)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll (Size: 39016 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:43:18)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll (Size: 388224 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:34)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll (Size: 17512 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:40)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll (Size: 184424 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:54)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll (Size: 45672 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:30:42)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll (Size: 17512 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:38:10)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll (Size: 47208 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:38:18)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\el\Humanizer.resources.dll (Size: 17512 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:10)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\es\Humanizer.resources.dll (Size: 33384 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:12)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll (Size: 39016 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:43:18)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll (Size: 379496 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:34)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll (Size: 17000 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:40)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll (Size: 181352 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:54)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll (Size: 45160 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:30:42)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll (Size: 17000 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:38:10)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll (Size: 46720 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:38:18)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\fa\Humanizer.resources.dll (Size: 17000 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:04)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll (Size: 13928 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:06)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\fr\Humanizer.resources.dll (Size: 19048 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:08)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll (Size: 39528 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:43:18)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll (Size: 388208 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:34)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll (Size: 17000 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:40)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll (Size: 188008 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:54)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll (Size: 45672 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:30:42)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll (Size: 17512 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:38:10)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll (Size: 47720 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:38:18)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll (Size: 17000 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:06)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\he\Humanizer.resources.dll (Size: 21096 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:08)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\hr\Humanizer.resources.dll (Size: 19048 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:08)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\hu\Humanizer.resources.dll (Size: 16488 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:10)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\hy\Humanizer.resources.dll (Size: 17000 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:10)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\id\Humanizer.resources.dll (Size: 17000 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:10)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\is\Humanizer.resources.dll (Size: 24168 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:12)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\it\Humanizer.resources.dll (Size: 16488 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:12)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll (Size: 39016 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:43:18)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll (Size: 385640 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:34)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll (Size: 16992 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:40)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll (Size: 183912 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:54)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll (Size: 45672 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:30:42)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll (Size: 17512 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:38:10)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll (Size: 47232 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:38:18)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ja\Humanizer.resources.dll (Size: 16488 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:04)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll (Size: 40552 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:43:18)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll (Size: 424552 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:34)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll (Size: 17512 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:40)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll (Size: 193128 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:54)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll (Size: 48744 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:30:42)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll (Size: 17512 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:38:10)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll (Size: 50304 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:38:18)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll (Size: 38504 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:43:18)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll (Size: 391272 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:34)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll (Size: 17000 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:40)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll (Size: 179304 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:54)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll (Size: 45672 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:30:42)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll (Size: 17512 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:38:10)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll (Size: 47232 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:38:18)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll (Size: 26728 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:06)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ku\Humanizer.resources.dll (Size: 30312 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:06)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\lv\Humanizer.resources.dll (Size: 27240 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:06)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll (Size: 27240 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:08)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\mt\Humanizer.resources.dll (Size: 29800 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:08)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\nb\Humanizer.resources.dll (Size: 17512 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:08)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll (Size: 17512 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:08)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\nl\Humanizer.resources.dll (Size: 16488 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:10)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\pl\Humanizer.resources.dll (Size: 18536 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:10)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll (Size: 39016 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:43:18)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll (Size: 391784 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:34)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll (Size: 17008 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:40)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll (Size: 180840 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:54)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll (Size: 45672 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:30:42)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll (Size: 17512 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:38:10)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll (Size: 47208 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:38:18)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\pt\Humanizer.resources.dll (Size: 16488 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:10)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll (Size: 38504 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:43:18)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll (Size: 373864 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:34)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll (Size: 17000 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:40)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll (Size: 179816 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:54)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll (Size: 44648 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:30:42)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll (Size: 17000 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:38:10)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll (Size: 46184 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:38:18)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ro\Humanizer.resources.dll (Size: 16488 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:12)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ru\Humanizer.resources.dll (Size: 21608 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:06)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll (Size: 44648 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:43:18)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll (Size: 513640 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:34)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll (Size: 18024 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:40)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll (Size: 240744 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:54)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll (Size: 54888 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:30:42)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll (Size: 18536 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:38:10)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll (Size: 53888 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:38:18)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\runtimes\win
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\runtimes\win\lib
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\runtimes\win\lib\net6.0
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll (Size: 292480 bytes, Created: 02/02/2025 20:30:58, Last Modified: 06/18/2023 19:46:04)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll (Size: 31688 bytes, Created: 02/02/2025 20:30:58, Last Modified: 07/19/2017 06:01:34)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\sk\Humanizer.resources.dll (Size: 18536 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:06)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\sl\Humanizer.resources.dll (Size: 21096 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:06)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\sr\Humanizer.resources.dll (Size: 19048 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:08)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll (Size: 18536 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:08)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\sv\Humanizer.resources.dll (Size: 16488 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:08)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\th-TH\Humanizer.resources.dll (Size: 29800 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:10)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\tr\Humanizer.resources.dll (Size: 16488 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:10)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll (Size: 38504 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:43:18)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll (Size: 370792 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:34)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll (Size: 17000 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:40)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll (Size: 176224 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:54)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll (Size: 44144 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:30:42)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll (Size: 17000 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:38:10)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll (Size: 45696 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:38:18)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\uk\Humanizer.resources.dll (Size: 21608 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:10)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll (Size: 17000 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:12)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll (Size: 16488 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:12)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\vi\Humanizer.resources.dll (Size: 17000 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:12)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll (Size: 16488 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:12)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll (Size: 16488 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:12)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll (Size: 36456 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:43:18)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll (Size: 330344 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:34)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll (Size: 17000 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:40)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll (Size: 156264 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:54)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll (Size: 41064 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:30:42)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll (Size: 17000 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:38:10)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll (Size: 43648 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:38:18)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll (Size: 16488 bytes, Created: 02/02/2025 20:30:58, Last Modified: 01/29/2022 10:04:14)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll (Size: 36968 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:43:18)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll (Size: 330344 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:34)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll (Size: 17000 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:40)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll (Size: 158312 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:42:54)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll (Size: 41064 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:30:42)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll (Size: 17000 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:38:10)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll (Size: 43136 bytes, Created: 02/02/2025 20:30:58, Last Modified: 10/14/2021 14:38:18)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Controllers\AccountController.cs (Size: 1834 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:47:53)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Controllers\GamesController.cs (Size: 3379 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:47:53)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Controllers\HomeController.cs (Size: 1960 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\MicroServices\GameInfo.cs (Size: 416 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:47:53)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\MicroServices\MicroClient.cs (Size: 2969 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Models\ErrorViewModel.cs (Size: 245 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Models\Game.cs (Size: 1612 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Models\LoginViewModel.cs (Size: 349 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:47:53)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\BucStop.csproj.nuget.dgspec.json (Size: 3099 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 20:30:56)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\BucStop.csproj.nuget.g.props (Size: 2576 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:47:55)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\BucStop.csproj.nuget.g.targets (Size: 597 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:41:37)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\project.assets.json (Size: 387390 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 20:30:56)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\project.nuget.cache (Size: 23805 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 20:30:56)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\ref
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\refint
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\scopedcss
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\staticwebassets
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs (Size: 198 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:41:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\apphost.exe (Size: 149504 bytes, Created: 02/02/2025 20:30:58, Last Modified: 02/02/2025 20:30:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\BucStop.AssemblyInfo.cs (Size: 1118 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 20:30:56)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\BucStop.AssemblyInfoInputs.cache (Size: 66 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 20:30:56)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\BucStop.assets.cache (Size: 110866 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 20:30:56)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\BucStop.csproj.AssemblyReference.cache (Size: 21073 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:47:56)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\BucStop.csproj.CopyComplete (Size: 0 bytes, Created: 02/02/2025 20:30:58, Last Modified: 02/02/2025 20:30:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\BucStop.csproj.CoreCompileInputs.cache (Size: 66 bytes, Created: 02/02/2025 20:30:56, Last Modified: 02/02/2025 20:30:56)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\BucStop.csproj.FileListAbsolute.txt (Size: 24272 bytes, Created: 02/02/2025 20:30:58, Last Modified: 02/02/2025 20:30:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\BucStop.dll (Size: 159232 bytes, Created: 02/02/2025 20:30:58, Last Modified: 02/02/2025 20:30:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\BucStop.GeneratedMSBuildEditorConfig.editorconfig (Size: 4805 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 20:30:56)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\BucStop.genruntimeconfig.cache (Size: 66 bytes, Created: 02/02/2025 20:30:58, Last Modified: 02/02/2025 20:30:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\BucStop.GlobalUsings.g.cs (Size: 770 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:41:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\BucStop.MvcApplicationPartsAssemblyInfo.cache (Size: 0 bytes, Created: 02/02/2025 20:30:56, Last Modified: 02/02/2025 20:30:56)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\BucStop.pdb (Size: 74584 bytes, Created: 02/02/2025 20:30:58, Last Modified: 02/02/2025 20:30:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\BucStop.RazorAssemblyInfo.cache (Size: 66 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:41:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\BucStop.RazorAssemblyInfo.cs (Size: 692 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:41:39)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\BucStop.sourcelink.json (Size: 161 bytes, Created: 02/02/2025 20:30:56, Last Modified: 02/02/2025 20:30:56)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\staticwebassets.build.json (Size: 62535 bytes, Created: 02/02/2025 20:30:58, Last Modified: 02/02/2025 20:30:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\staticwebassets.development.json (Size: 11186 bytes, Created: 02/02/2025 20:30:58, Last Modified: 02/02/2025 20:30:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\staticwebassets.pack.json (Size: 17303 bytes, Created: 02/02/2025 20:30:58, Last Modified: 02/02/2025 20:30:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\ref\BucStop.dll (Size: 32256 bytes, Created: 02/02/2025 20:30:58, Last Modified: 02/02/2025 20:30:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\refint\BucStop.dll (Size: 32256 bytes, Created: 02/02/2025 20:30:58, Last Modified: 02/02/2025 20:30:58)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\scopedcss\bundle
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\scopedcss\projectbundle
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\scopedcss\Views
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\scopedcss\bundle\BucStop.styles.css (Size: 1124 bytes, Created: 02/02/2025 20:30:58, Last Modified: 02/02/2025 20:30:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\scopedcss\projectbundle\BucStop.bundle.scp.css (Size: 1124 bytes, Created: 02/02/2025 20:30:58, Last Modified: 02/02/2025 20:30:58)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\scopedcss\Views\Shared
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css (Size: 1061 bytes, Created: 02/02/2025 20:30:58, Last Modified: 02/02/2025 20:30:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\staticwebassets\msbuild.BucStop.Microsoft.AspNetCore.StaticWebAssets.props (Size: 71117 bytes, Created: 02/02/2025 20:30:58, Last Modified: 02/02/2025 20:30:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\staticwebassets\msbuild.build.BucStop.props (Size: 91 bytes, Created: 02/02/2025 20:30:58, Last Modified: 02/02/2025 20:30:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BucStop.props (Size: 71 bytes, Created: 02/02/2025 20:30:58, Last Modified: 02/02/2025 20:30:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BucStop.props (Size: 85 bytes, Created: 02/02/2025 20:30:58, Last Modified: 02/02/2025 20:30:58)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Properties\launchSettings.json (Size: 1005 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Services\GameService.cs (Size: 430 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Services\PlayCountManager.cs (Size: 2049 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Views\Account
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Views\Games
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Views\Home
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Views\Shared
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Views\_ViewImports.cshtml (Size: 96 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Views\_ViewStart.cshtml (Size: 35 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Views\Account\Login.cshtml (Size: 759 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:47:53)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Views\Games\Index.cshtml (Size: 2372 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Views\Games\Play.cshtml (Size: 3933 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:47:53)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Views\Home\Admin.cshtml (Size: 551 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Views\Home\GameCriteria.cshtml (Size: 2008 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Views\Home\Games.cshtml (Size: 259 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Views\Home\Index.cshtml (Size: 3931 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Views\Home\Privacy.cshtml (Size: 1909 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Views\Home\TwoDotFour.cshtml (Size: 2243 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Views\Home\TwoDotOne.cshtml (Size: 2516 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Views\Home\TwoDotThree.cshtml (Size: 1170 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Views\Home\TwoDotTwo.cshtml (Size: 3692 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Views\Shared\Error.cshtml (Size: 884 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Views\Shared\_Layout.cshtml (Size: 3715 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:47:53)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Views\Shared\_Layout.cshtml.css (Size: 924 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Views\Shared\_LoginPartial.cshtml (Size: 755 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\Views\Shared\_ValidationScriptsPartial.cshtml (Size: 176 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\css
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\fonts
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\images
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\js
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\favicon.ico (Size: 3758 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\Logo.png (Size: 11885 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\playcount.json (Size: 561 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\css\site.css (Size: 2015 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\fonts\BebasNeue-Regular.ttf (Size: 57676 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\fonts\GreatVibes-Regular.ttf (Size: 154020 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\images\background.png (Size: 176387 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\images\pong.jpg (Size: 15324 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\images\snake.jpg (Size: 82217 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\images\tetris.jpg (Size: 26408 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\js\hammer.min.js (Size: 24756 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\js\pong.js (Size: 8039 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\js\site.js (Size: 1547 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\js\snake.js (Size: 6064 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\js\tetris.js (Size: 10026 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\jquery
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\jquery-validation
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\jquery-validation-unobtrusive
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\LICENSE (Size: 1153 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\js
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css (Size: 75534 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map (Size: 196535 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css (Size: 51325 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map (Size: 117439 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css (Size: 75607 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map (Size: 196539 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css (Size: 51400 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map (Size: 117516 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css (Size: 6276 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map (Size: 105138 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css (Size: 4653 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map (Size: 35330 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css (Size: 6250 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map (Size: 105151 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css (Size: 4725 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map (Size: 41570 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css (Size: 76449 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map (Size: 192271 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css (Size: 53485 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map (Size: 111875 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css (Size: 76307 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map (Size: 192214 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css (Size: 53413 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map (Size: 111710 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap.css (Size: 215356 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map (Size: 536547 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css (Size: 162726 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map (Size: 449111 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css (Size: 214999 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map (Size: 536461 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css (Size: 162831 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map (Size: 661035 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js (Size: 215272 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map (Size: 425643 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js (Size: 78474 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map (Size: 327261 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js (Size: 143996 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map (Size: 288320 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js (Size: 72022 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map (Size: 222508 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\js\bootstrap.js (Size: 153194 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map (Size: 289522 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js (Size: 59517 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map (Size: 217145 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\jquery\dist
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\jquery\LICENSE.txt (Size: 1641 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\jquery\dist\jquery.js (Size: 298502 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\jquery\dist\jquery.min.js (Size: 89478 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\jquery\dist\jquery.min.map (Size: 137974 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[Directory] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\jquery-validation\dist
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\jquery-validation\LICENSE.md (Size: 1117 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\jquery-validation\dist\additional-methods.js (Size: 43184 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\jquery-validation\dist\additional-methods.min.js (Size: 18467 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\jquery-validation\dist\jquery.validate.js (Size: 50276 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js (Size: 23264 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js (Size: 19798 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js (Size: 5873 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\BucStop\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt (Size: 587 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:40:20)
+[File] C:\Users\Chris\Desktop\BucStop\BucStop_WebApp\scripts\firstDeploy.sh (Size: 2283 bytes, Created: 02/02/2025 19:48:23, Last Modified: 02/02/2025 19:47:53)
