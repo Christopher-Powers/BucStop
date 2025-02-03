@@ -1,0 +1,65 @@
+
+services:
+  bucstop:
+    build:
+      context: ./Bucstop_WebApp/BucStop
+      dockerfile: Dockerfile
+    container_name: bucstop
+    ports:
+      - "8080:80"
+    networks:
+      - bucstop-network
+    environment:
+      - ASPNETCORE_URLS=http://+:80
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - ASPNETCORE_HTTPS_PORT=
+    depends_on:
+      - api-gateway
+
+  api-gateway:
+    build:
+      context: ./BucStop_APIGateway/APIGateway
+      dockerfile: Dockerfile
+    container_name: api-gateway
+    ports:
+      - "8081:80" # Expose API Gateway on localhost:8081
+    networks:
+      - bucstop-network
+    depends_on:
+      - snake
+      - pong
+      - tetris
+
+  snake:
+    build:
+      context: ./BucStop_Snake/Snake
+      dockerfile: Dockerfile
+    container_name: game-snake
+    ports:
+      - "8082:80" # Expose Snake microservice on localhost:8082
+    networks:
+      - bucstop-network
+
+  pong:
+    build:
+      context: ./BucStop_Pong/Pong
+      dockerfile: Dockerfile
+    container_name: game-pong
+    ports:
+      - "8083:80" # Expose Pong microservice on localhost:8083
+    networks:
+      - bucstop-network
+
+  tetris:
+    build:
+      context: ./BucStop_Tetris/Tetris
+      dockerfile: Dockerfile
+    container_name: game-tetris
+    ports:
+      - "8084:80" # Expose Tetris microservice on localhost:8084
+    networks:
+      - bucstop-network
+
+networks:
+  bucstop-network:
+    driver: bridge
